@@ -396,3 +396,5 @@ dependencies:
   - ingress
 # No outputs: the OIDC coordinates are platform Context values, not a
 # connection one service would provide to the others.
+
+# deliberate no-op change to test the guard
